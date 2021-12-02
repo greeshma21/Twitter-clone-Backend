@@ -1,0 +1,4 @@
+{ "_id" : ObjectId("61a68c3542e976789a14068f"), "title" : "Terminator", "rating" : 4.8 }
+{ "_id" : ObjectId("61a68c4142e976789a140690"), "title" : "Avatar", "rating" : 4.7 }
+{ "_id" : ObjectId("61a68c5d42e976789a140691"), "title" : "Avatar", "rating" : 4.7 }
+{ "_id" : ObjectId("61a68c750942a29cc9a8f0ec"), "title" : "Hello", "__v" : 0 }
